@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bread.AllInPay", "Bread.AllInPay\Bread.AllInPay.csproj", "{9C7F6C78-D0A1-43E4-BF7A-04FB8AEF2DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bread.AllInPay.Tests", "Bread.AllInPay.Tests\Bread.AllInPay.Tests.csproj", "{CDA57C17-D619-4232-A738-58B339F11DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7F6C78-D0A1-43E4-BF7A-04FB8AEF2DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7F6C78-D0A1-43E4-BF7A-04FB8AEF2DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7F6C78-D0A1-43E4-BF7A-04FB8AEF2DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7F6C78-D0A1-43E4-BF7A-04FB8AEF2DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA57C17-D619-4232-A738-58B339F11DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA57C17-D619-4232-A738-58B339F11DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA57C17-D619-4232-A738-58B339F11DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA57C17-D619-4232-A738-58B339F11DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2D47AB-E93B-4B22-AA08-7ABFAF6A9FB8}
+	EndGlobalSection
+EndGlobal
